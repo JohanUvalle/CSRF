@@ -1,0 +1,4 @@
+mkdir CSRF
+cd CSRF
+python -m venv venv
+venv\Scripts\activate
